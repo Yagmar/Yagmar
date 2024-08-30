@@ -1,4 +1,4 @@
-# Hi 👋, I'm Abdoulaye Yagmar Doumbia
+# Hi 👋, I'm Abdoulaye  Doumbia
 ### Mobile & Full-Stack Developer: Android | iOS | Web
 
 I am passionate about mobile and web technologies with extensive experience in developing Android, iOS applications, and full-stack web applications. I am skilled in Java, Kotlin, Swift for mobile development, and proficient in backend and frontend development using Node.js, Express.js, Nest.js, React, and Angular. Always eager to take on innovative and challenging projects that allow me to implement advanced technical solutions and contribute significantly to project success.
