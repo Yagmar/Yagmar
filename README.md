@@ -14,7 +14,6 @@ I am passionate about mobile and web technologies with extensive experience in d
     <img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift" title="Swift"/>
     <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" title="Flutter"/>
     <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" title="Android Development"/>
-    <img src="[https://img.icons8.com/color/48/000000/apple-logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Ffr%2Fpng-pwrge&psig=AOvVaw0JUrsWEv9bscKWkCxaFulC&ust=1725127245655000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKilpPelnYgDFQAAAAAdAAAAABAE)" alt="iOS" title="iOS Development"/>
     <!-- Full-Stack Development Tools -->
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js"/>
     <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" title="Express.js"/>
