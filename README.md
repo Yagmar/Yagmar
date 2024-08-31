@@ -34,6 +34,13 @@ I am passionate about mobile and web technologies with extensive experience in d
 
 ---
 
+## 📊 Most Used Languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagmar&layout=compact&theme=dark)
+
+---
+
+
 ## 🎓 Education:
 
 - **Master's Degree in Software Architecture**  
