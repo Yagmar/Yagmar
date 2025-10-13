@@ -55,59 +55,47 @@ I am passionate about mobile and web technologies with extensive experience in d
 
 ## 💼 Work Experience:
 
-Mobile Software Engineer – iOS & Android (Consultant via Apside)
+## 💼 Professional Experience
 
-HID Global – Boulogne-Billancourt, France
-September 2024 – Present
+### 🧩 Mobile Software Engineer – iOS & Android (Consultant via Apside)
+**HID Global – Boulogne-Billancourt, France**  
+*September 2024 – Present*  
 
-Contributed to the enhancement of HID Approve, a secure multi-platform authentication app using push notifications and OTP.
+- Contributed to the enhancement of **HID Approve**, a secure multi-platform authentication app using push notifications and OTP.  
+- Implemented **biometric authentication** (Face ID, Fingerprint) on iOS and Android.  
+- Developed and maintained **unit and functional tests** across iOS (XCTest), Android (Espresso), and Windows (xUnit).  
+- Set up **Appium** for mobile test automation and integrated **JaCoCo** for code coverage reporting.  
+- Automated **CI/CD pipelines** using **Jenkins** and ensured continuous quality tracking via **SonarQube**.  
+- Collaborated within a **6-member Agile team** (sprints, dailies, retrospectives).  
+- Experimented with **React Native (Expo, Detox, Tailwind CSS)** for internal prototype development.  
 
-Implemented biometric authentication (Face ID, Fingerprint) on iOS and Android.
+---
 
-Developed and maintained unit and functional tests across iOS (XCTest), Android (Espresso), and Windows (xUnit).
+### 📱 Mobile Developer (Apprenticeship)
+**Sinotech Engineering – Neuilly-sur-Seine, France**  
+*January 2022 – August 2024*  
 
-Set up Appium for mobile test automation and integrated JaCoCo for code coverage reporting.
+- Designed and developed a **cross-platform real estate application** (Android / iOS) using **Kotlin** and **SwiftUI**.  
+- Managed backend development with **Node.js** and **Express.js** (microservices architecture).  
+- Built **RESTful JSON APIs** for visit scheduling, offer management, and user interactions.  
+- Implemented a **robust MVVM architecture** and participated in **code reviews** to improve maintainability.  
+- Mentored interns and promoted clean code practices in an **Agile 5-member startup team**.  
 
-Automated CI/CD pipelines using Jenkins and ensured continuous quality tracking via SonarQube.
+---
 
-Collaborated within a 6-member Agile team (sprints, dailies, retrospectives).
+### 🎓 Academic & Personal Projects (EPITECH Paris)
+*2020 – 2024*  
 
-Experimented with React Native (Expo, Detox, Tailwind CSS) for internal prototype development.
+#### 🔹 Full-Stack Web Development
+- Built and maintained **web applications** using **Node.js**, **Nest.js**, and **Express.js** for the backend.  
+- Developed responsive front-end interfaces with **React** and **Angular**, integrating RESTful APIs.  
 
-Mobile Developer (Apprenticeship)
+#### 🔹 Photo Management Application (Picture Manager)
+- Created a **Flutter app** for photo organization and sharing, allowing users to manage and share albums.  
 
-Sinotech Engineering – Neuilly-sur-Seine, France
-January 2022 – August 2024
-
-Designed and developed a cross-platform real estate application (Android / iOS) using Kotlin and SwiftUI.
-
-Managed backend development with Node.js and Express.js (microservices architecture).
-
-Built RESTful JSON APIs for visit scheduling, offer management, and user interactions.
-
-Implemented a robust MVVM architecture and participated in code reviews to improve maintainability.
-
-Mentored interns and promoted clean code practices in an Agile 5-member startup team.
-
-Academic & Personal Projects (EPITECH Paris)
-
-2020 – 2024
-
-Full-Stack Web Development
-
-Built and maintained web applications using Node.js, Nest.js, and Express.js for the backend.
-
-Developed responsive front-end interfaces with React and Angular, integrating RESTful APIs.
-
-Photo Management Application (Picture Manager)
-
-Created a Flutter app for photo organization and sharing, allowing users to manage and share albums.
-
-Electric Car Charging App
-
-Developed a Flutter application for managing electric car charging stations.
-
-Enabled users to locate, book, and rent charging points and handle payments directly in the app.
+#### 🔹 Electric Car Charging App
+- Developed a **Flutter application** for managing electric car charging stations.  
+- Enabled users to **locate, book, and rent** charging points and handle payments directly in the app.  
 
 ---
 
