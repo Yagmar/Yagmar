@@ -55,25 +55,59 @@ I am passionate about mobile and web technologies with extensive experience in d
 
 ## 💼 Work Experience:
 
-- **Mobile Developer (Internship)**  
-  _Sinotech, Neuilly-sur-Seine_  
-  *January 2022 - August 2024*  
-  - Developed a real estate application for Android and iOS using Android Studio, Kotlin, and SwiftUI.
-  - Managed backend development with Node.js and Express.js, focusing on scheduling visits and making offers on properties through JSON REST APIs.
+Mobile Software Engineer – iOS & Android (Consultant via Apside)
 
-- **Full-Stack Development Projects**  
-  _EPITECH Paris_  
-  *January 2023 - Present*  
-  - **Web Application Development:**
-    - Built and maintained full-stack web applications using Node.js, Express.js, and Nest.js for backend development.
-    - Developed dynamic and responsive front-end interfaces with React and Angular.
-    - Integrated RESTful APIs to connect front-end and back-end services.
-  
-  - **Photo Management Application (Picture Manager):**  
-    Developed a photo management and sharing application using Flutter. The application allowed users to organize and share photos.
-  
-  - **Electric Car Charging Application:**  
-    Created an application in Flutter for managing electric car charging stations. The project enabled users to rent out their charging stations and electric car owners to find available stations and agree on rates.
+HID Global – Boulogne-Billancourt, France
+September 2024 – Present
+
+Contributed to the enhancement of HID Approve, a secure multi-platform authentication app using push notifications and OTP.
+
+Implemented biometric authentication (Face ID, Fingerprint) on iOS and Android.
+
+Developed and maintained unit and functional tests across iOS (XCTest), Android (Espresso), and Windows (xUnit).
+
+Set up Appium for mobile test automation and integrated JaCoCo for code coverage reporting.
+
+Automated CI/CD pipelines using Jenkins and ensured continuous quality tracking via SonarQube.
+
+Collaborated within a 6-member Agile team (sprints, dailies, retrospectives).
+
+Experimented with React Native (Expo, Detox, Tailwind CSS) for internal prototype development.
+
+Mobile Developer (Apprenticeship)
+
+Sinotech Engineering – Neuilly-sur-Seine, France
+January 2022 – August 2024
+
+Designed and developed a cross-platform real estate application (Android / iOS) using Kotlin and SwiftUI.
+
+Managed backend development with Node.js and Express.js (microservices architecture).
+
+Built RESTful JSON APIs for visit scheduling, offer management, and user interactions.
+
+Implemented a robust MVVM architecture and participated in code reviews to improve maintainability.
+
+Mentored interns and promoted clean code practices in an Agile 5-member startup team.
+
+Academic & Personal Projects (EPITECH Paris)
+
+2020 – 2024
+
+Full-Stack Web Development
+
+Built and maintained web applications using Node.js, Nest.js, and Express.js for the backend.
+
+Developed responsive front-end interfaces with React and Angular, integrating RESTful APIs.
+
+Photo Management Application (Picture Manager)
+
+Created a Flutter app for photo organization and sharing, allowing users to manage and share albums.
+
+Electric Car Charging App
+
+Developed a Flutter application for managing electric car charging stations.
+
+Enabled users to locate, book, and rent charging points and handle payments directly in the app.
 
 ---
 
